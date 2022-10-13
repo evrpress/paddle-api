@@ -8,7 +8,7 @@ class API
     /** @var string Paddle Production Checkout API base URL */
     const PADDLE_CHECKOUT_API_URL = 'https://checkout.paddle.com/api';
     /** @var string Paddle Sandbox Checkout API base URL */
-    const PADDLE_SANDBOX_CHECKOUT_API_URL = 'https://sandbox-vendors.paddle.com/api';
+    const PADDLE_SANDBOX_CHECKOUT_API_URL = 'https://sandbox-checkout.paddle.com/api';
     /** @var string Paddle Production Product API, Subscription API and Alert API base URL */
     const PADDLE_VENDOR_API_URL = 'https://vendors.paddle.com/api';
     /** @var string Paddle Sandbox Product API, Subscription API and Alert API base URL */
